@@ -7,4 +7,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astral-Cyber&theme=buefy&layout=compact" />
 </a>
 
-![](https://raw.githubusercontent.com/Astral-Cyber/Astral-Cyber/main/assets/github-contribution-grid-snake.svg)              
+![](https://raw.githubusercontent.com/Astral-Cyber/Astral-Cyber/output/github-contribution-grid-snake.svg)              
